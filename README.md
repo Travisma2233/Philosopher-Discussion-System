@@ -6,6 +6,10 @@ A multi-round philosophical discussion system based on LLMs, simulating deep int
 ![幻灯片2](https://github.com/user-attachments/assets/70dc79d9-cb64-4929-96dd-ba56de52edfc)
 ![幻灯片1](https://github.com/user-attachments/assets/420ee3d9-fdc6-4cc0-873f-24fdc0e5977d)
 
+![image](https://github.com/user-attachments/assets/a335014a-cd9d-4ce7-b946-4ba35381edf2)
+![861525baeed2f09d1d9105951aa6502](https://github.com/user-attachments/assets/5b7ee115-7c73-40bb-ac9e-0cec54190317)
+
+
 
 ## ✨ 特色功能 | Features
 

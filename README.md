@@ -11,8 +11,7 @@ A multi-round philosophical discussion system based on LLMs, simulating deep int
 
 
 
-![image](https://github.com/user-attachments/assets/a335014a-cd9d-4ce7-b946-4ba35381edf2)
-![861525baeed2f09d1d9105951aa6502](https://github.com/user-attachments/assets/5b7ee115-7c73-40bb-ac9e-0cec54190317)
+
 
 
 

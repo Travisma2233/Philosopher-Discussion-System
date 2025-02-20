@@ -4,7 +4,9 @@
 A multi-round philosophical discussion system based on LLMs, simulating deep intellectual exchanges between three great philosophers.
 
 ![幻灯片2](https://github.com/user-attachments/assets/56202129-b04f-410c-ad3c-1c9e7ee6935b)
+----------------------------------------------------------------------------------------------
 ![幻灯片1](https://github.com/user-attachments/assets/9410f6d6-eeb9-48fb-aa0a-d72ee371bd40)
+----------------------------------------------------------------------------------------------
 
 
 

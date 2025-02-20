@@ -108,10 +108,7 @@ python philosopher_discussion_openai.py
 
 MIT License
 
-## 🤝 贡献 | Contributing
 
-欢迎提交 Pull Requests 或创建 Issues！
-Welcome to submit Pull Requests or create Issues!
 
 ## 👨‍💻 作者 | Author
 

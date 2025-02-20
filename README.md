@@ -3,6 +3,10 @@
 一个基于大语言模型的多轮哲学对话系统，模拟了三位伟大哲学家之间的深度思想交流。
 A multi-round philosophical discussion system based on LLMs, simulating deep intellectual exchanges between three great philosophers.
 
+![幻灯片2](https://github.com/user-attachments/assets/70dc79d9-cb64-4929-96dd-ba56de52edfc)
+![幻灯片1](https://github.com/user-attachments/assets/420ee3d9-fdc6-4cc0-873f-24fdc0e5977d)
+
+
 ## ✨ 特色功能 | Features
 
 - 🎯 支持自动/手动选择哲学问题 | Support automatic/manual selection of philosophical questions

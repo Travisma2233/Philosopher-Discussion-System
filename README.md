@@ -99,10 +99,7 @@ python philosopher_discussion_openai.py
 3. 确认代理服务器运行 | Verify proxy server is running
 4. 系统需安装微软雅黑字体 | System needs Microsoft YaHei font
 
-## 🐛 问题反馈 | Issues
 
-如有问题请访问 | Please visit for issues:
-[GitHub Issues](https://github.com/travisma2233/philosopher_discussion/issues)
 
 ## 📜 许可证 | License
 
